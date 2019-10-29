@@ -1,0 +1,22 @@
+#container {
+    background:red;
+    min-width:240px;
+    max-width:1200px;
+    margin:0 auto;
+    width:100%;
+}
+
+body,h1 {
+    margin:0;
+}
+@media only screen and (min-width:600px){
+    #container {
+        background:rgb(38, 0, 255);
+    }
+}
+
+@media only screen and (min-width:1000px){
+    #container {
+        background:rgb(255, 0, 212);
+    }
+}

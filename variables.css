@@ -1,0 +1,66 @@
+
+
+:root {
+  --main-dark-colour: rgb(20, 196, 35);
+  --main-light-colour:rgb(199, 206, 135);
+}
+
+.one {
+  color: var(--main-light-colour);
+  background-color: var(--main-dark-colour);
+
+}
+
+.two {
+  color: var(--main-dark-colour);
+  background-color: var(--main-light-colour);
+
+}
+.three {
+  color: var(--main-light-colour);
+  background-color: var(--main-dark-colour);
+
+}
+.four {
+  color: var(--main-dark-colour);
+  background-color: var(--main-light-colour);
+
+}
+
+.five {
+  background-color: var(--main-dark-colour);
+  color: var(--main-light-colour);
+}
+ 
+
+
+
+/* 
+
+ .one {
+  color: rgb(192, 184, 184);
+  background-color: rgb(47, 20, 196);
+
+}
+
+.two {
+  color: rgb(47, 20, 196);
+  background-color: rgb(192, 184, 184);
+
+}
+.three {
+  color: rgb(192, 184, 184);
+  background-color: rgb(47, 20, 196);
+
+}
+.four {
+  color: rgb(47, 20, 196);
+  background-color: rgb(192, 184, 184);
+
+}
+
+.five {
+  background-color: rgb(47, 20, 196);
+  color: rgb(192, 184, 184);
+}
+ */
